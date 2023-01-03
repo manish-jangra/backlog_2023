@@ -1,3 +1,3 @@
 # backlog_2023
 
-[ ] Azure Fundamentals
+[x] Azure Fundamentals
